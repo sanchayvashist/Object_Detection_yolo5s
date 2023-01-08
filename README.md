@@ -17,31 +17,13 @@
 
 ### Input Video
 
-.. raw::html
-
-   <center><iframe width="540" height="380" src="https://youtu.be/nBxgr2sia8E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-
-.. raw:: html
-
-   </iframe></center>
-
-  
-
-    <br><br>
+https://user-images.githubusercontent.com/103204383/211204827-404687ed-99e0-4456-ac56-2546e9da525a.mp4
 
 
 ### Output Video
 
-.. raw:: html
-
-   <center><iframe width="540" height="380" src="https://youtu.be/vfsllAezf6s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-
-.. raw:: html
+https://user-images.githubusercontent.com/103204383/211204782-d194d8d7-9f51-49eb-8d3d-05fa55687c05.mp4
 
 
-</iframe></center>
 
-  
-
-    <br><br>
 
