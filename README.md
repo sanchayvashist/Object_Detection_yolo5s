@@ -10,4 +10,17 @@
 
 ### Solution
 1. Extracted frames from given footage using ffmpeg to use as training set object detection model
-2. 
+2. Used roboflow to create training,testing and validation dataset for creating a custom object detector
+3. Clone yolov5 repository and dataset from robolflow using your api key in form of data.yaml file for training your custom object detector
+4. Used yolov5s model and experimented with various parametors and confidance value to get expected result and got custom object detector which detect pipes in any given image or video with high accuracy
+5. Makde changes in detect.py to keep track of pipes of different size and print the output in video
+
+### Input Video
+
+
+https://user-images.githubusercontent.com/103204383/211202997-dd99f3ee-7b48-4e2f-b75d-abd1e7936c91.mp4
+
+
+### Output Video
+
+https://user-images.githubusercontent.com/103204383/211203011-eb9b69b3-906e-49ba-a39d-e1394f1c3f88.mp4
