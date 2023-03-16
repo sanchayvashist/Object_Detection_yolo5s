@@ -12,7 +12,7 @@
 2. Used roboflow to create training,testing and validation dataset for creating a custom object detector
 3. Clone yolov5 repository and dataset from robolflow using your api key in form of data.yaml file for training your custom object detector
 4. Used yolov5s model and experimented with various parametors and confidance value to get expected result and got custom object detector which detect pipes in any given image or video with high accuracy
-5. Makde changes in detect.py to keep track of pipes of different size and print the output in video
+5. Made changes in detect.py to keep track of pipes of different size and print the output in video
 
 ### Input Video
 
